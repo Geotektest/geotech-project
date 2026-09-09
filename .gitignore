@@ -1,0 +1,20 @@
+# Environnements Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets / config locale — NE JAMAIS committer les identifiants de connexion
+.env
+*.env.local
+
+# Données volumineuses (exports BSS complets, scans PDF/TIF)
+# -> à stocker ailleurs (stockage cloud, pas dans Git)
+data/raw/
+data/scans/
+*.tif
+*.tiff
+
+# OS / éditeurs
+.DS_Store
+.vscode/

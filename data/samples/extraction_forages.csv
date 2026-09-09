@@ -1,0 +1,8 @@
+borehole_id,date_forage,cote_terrain_naturel_NGF,profondeur_debut_m,profondeur_fin_m,epaisseur_m,cote_debut_NGF,cote_fin_NGF,nature_terrain,observations,fichier_source
+F1,12-13/05/1976,39.60,0.00,4.80,4.80,39.60,34.80,"Conglomérat à liant marno-calcaire, généralement bien cimenté","Eau le 13/5 au soir à 1.40m",T416738.TIF
+F1,12-13/05/1976,39.60,4.80,8.25,3.45,34.80,31.35,"Idem ci-dessus, légèrement moins cimenté","Eau le 12/5 au soir à 2.40m",T416738.TIF
+F1,12-13/05/1976,39.60,8.25,11.30,3.05,31.35,28.30,"Marne argileuse compacte","Sec à 3.55m le 13/5 au matin ; carotte n°078069 (réf. 10445A0277) ; fin de forage à 11.30m",T416738.TIF
+F2,13/05/1976,40.50,0.00,5.00,5.00,40.50,35.50,"Conglomérat à liant marno-calcaire, généralement bien cimenté","Eau à 2.85m le 13/5 au soir",T416739.TIF
+F2,13/05/1976,40.50,5.00,7.20,2.20,35.50,33.30,"Idem ci-dessus, légèrement moins cimenté",,T416739.TIF
+F2,13/05/1976,40.50,7.20,11.15,3.95,33.30,29.35,"Marne raide sans rognons","carotte n°078070 (réf. 10445A0277)",T416739.TIF
+F2,13/05/1976,40.50,11.15,14.20,3.05,29.35,26.30,"Idem ci-dessus, plus caillouteuse","Fin de forage à 14.20m",T416739.TIF
